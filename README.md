@@ -14,6 +14,12 @@ The notebooks in this repository cover:
 * **Temporal Encoding:** Shifting from rate-coded inputs to time-coded information processing.
 * _More to come_
 
+<p align="center">
+  <img src="images/SNN%20graphs.png" width="600" title="SNN Activity Graphs">
+  <br>
+  <em>Figure 1: Visualization of spike trains and synaptic weight changes.</em>
+</p>
+
 ## Repository Structure
 
 ### 1. Single Synapse Toy Network
